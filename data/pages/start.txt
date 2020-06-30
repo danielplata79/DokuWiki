@@ -1,0 +1,11 @@
+====== Hola Mundo en DokuWiki!, por Daniel Plata ======
+===== Descripción =====
+Esta es mi primera documentación en //**DokuWiki**//, actualizada desde la version **Frusterick Manners** hasta la actual **Greebo**. En la siguiente mostrare el paso a paso de la instalacion de esta Wiki.
+===== Paso 1: Montar Servidor =====
+Se puede montar el servidor con **Apache** de forma basica, descargamos y decomprimimos la version [[https://download.dokuwiki.org/|Frusteric Manners]], y se coloca la carpeta extraida en //\srv\http\// en caso de de **Linux**, y en caso **Windows** en //C:\xampp\htdocs\//\\
+\\
+Para actualizar a la versión **Greebo** [[https://www.dokuwiki.org/install:upgrade|Leer]]
+
+===== Paso 2 : Instalar DokuWiki =====
+Accedemos a la instalación de **//DokuWiki//** entrando a //localhost\DokuWiki\install.php//, colocamos nuestros datos y guardamos.
+
